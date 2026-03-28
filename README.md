@@ -1,5 +1,6 @@
 # 🚘 AutoValuer AI – Car Price Prediction System
 
+🔗 Live App:https://autovaluer.streamlit.app/
 AutoValuer AI is a machine learning-powered web application that predicts car prices based on key vehicle specifications.  
 Built with a clean, modern UI and deployed using Streamlit, this project is designed for real-world usability and portfolio showcase.
 
